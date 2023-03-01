@@ -2,7 +2,7 @@
 
 ### railsdevs
 RailsDevs is an empowering and public platform for helping RoR developers finding their next gig. Take a look!:
-[https://railsdevs.com](https://railsdevs.com
+[https://railsdevs.com](https://railsdevs.com)
 [https://github.com/joemasilotti/railsdevs.com](https://github.com/joemasilotti/railsdevs.com)
 
 ### trailmix
